@@ -6,6 +6,7 @@ int main()
    printf("Hello india\n");
    printf("Hello mathura\n");
    printf("Hello mathura\n");
+   printf("Hello kosi\n");
    printf("%d",a);
    return 0;
 }
