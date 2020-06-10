@@ -7,6 +7,7 @@ int main()
    printf("Hello mathura\n");
    printf("Hello mathura\n");
    printf("Hello kosi\n");
+   printf("check for new kosi\n");
    printf("%d",a);
    return 0;
 }
